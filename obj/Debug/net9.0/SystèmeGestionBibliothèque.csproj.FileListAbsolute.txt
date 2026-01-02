@@ -1,0 +1,14 @@
+D:\Documentos\Estudando para TI\C#\SystèmeGestionBibliothèque\SystèmeGestionBibliothèque\bin\Debug\net9.0\SystèmeGestionBibliothèque.exe
+D:\Documentos\Estudando para TI\C#\SystèmeGestionBibliothèque\SystèmeGestionBibliothèque\bin\Debug\net9.0\SystèmeGestionBibliothèque.deps.json
+D:\Documentos\Estudando para TI\C#\SystèmeGestionBibliothèque\SystèmeGestionBibliothèque\bin\Debug\net9.0\SystèmeGestionBibliothèque.runtimeconfig.json
+D:\Documentos\Estudando para TI\C#\SystèmeGestionBibliothèque\SystèmeGestionBibliothèque\bin\Debug\net9.0\SystèmeGestionBibliothèque.dll
+D:\Documentos\Estudando para TI\C#\SystèmeGestionBibliothèque\SystèmeGestionBibliothèque\bin\Debug\net9.0\SystèmeGestionBibliothèque.pdb
+D:\Documentos\Estudando para TI\C#\SystèmeGestionBibliothèque\SystèmeGestionBibliothèque\obj\Debug\net9.0\SystèmeGestionBibliothèque.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Estudando para TI\C#\SystèmeGestionBibliothèque\SystèmeGestionBibliothèque\obj\Debug\net9.0\SystèmeGestionBibliothèque.AssemblyInfoInputs.cache
+D:\Documentos\Estudando para TI\C#\SystèmeGestionBibliothèque\SystèmeGestionBibliothèque\obj\Debug\net9.0\SystèmeGestionBibliothèque.AssemblyInfo.cs
+D:\Documentos\Estudando para TI\C#\SystèmeGestionBibliothèque\SystèmeGestionBibliothèque\obj\Debug\net9.0\SystèmeGestionBibliothèque.csproj.CoreCompileInputs.cache
+D:\Documentos\Estudando para TI\C#\SystèmeGestionBibliothèque\SystèmeGestionBibliothèque\obj\Debug\net9.0\SystèmeGestionBibliothèque.dll
+D:\Documentos\Estudando para TI\C#\SystèmeGestionBibliothèque\SystèmeGestionBibliothèque\obj\Debug\net9.0\refint\SystèmeGestionBibliothèque.dll
+D:\Documentos\Estudando para TI\C#\SystèmeGestionBibliothèque\SystèmeGestionBibliothèque\obj\Debug\net9.0\SystèmeGestionBibliothèque.pdb
+D:\Documentos\Estudando para TI\C#\SystèmeGestionBibliothèque\SystèmeGestionBibliothèque\obj\Debug\net9.0\SystèmeGestionBibliothèque.genruntimeconfig.cache
+D:\Documentos\Estudando para TI\C#\SystèmeGestionBibliothèque\SystèmeGestionBibliothèque\obj\Debug\net9.0\ref\SystèmeGestionBibliothèque.dll
